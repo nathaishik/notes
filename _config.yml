@@ -1,5 +1,8 @@
-title: Aishik Nath - Physics Notes
+title: Notes
 description: A simple note-keeping site to document my physics journey.
 theme: just-the-docs
 
-url: https://nathaishik.github.io/physics/
+url: https://nathaishik.github.io/notes/
+
+plugins:
+  - jekyll-spaceship
