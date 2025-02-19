@@ -24,3 +24,5 @@ Irrelevant PRs will be closed without any reason (or perhaps, that's the reason)
 ## Math
 
 The math in this site is written in $\LaTeX$. An example equation is $ \int\_a^b f(x)\,dx. $
+
+
